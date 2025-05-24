@@ -1,0 +1,121 @@
+{
+  "colors": {
+    "accent": "#3e8fb0",
+    "messages": {
+      "backgrounds": {
+        "alternate": "#2a273f",
+        "regular": "#232136"
+      },
+      "disabled": "#aa232136",
+      "highlightAnimationEnd": "#006e6a86",
+      "highlightAnimationStart": "#6ef6c177",
+      "selection": "#50908caa",
+      "textColors": {
+        "caret": "#ea9a97",
+        "chatPlaceholder": "#6e6a86",
+        "link": "#3e8fb0",
+        "regular": "#e0def4",
+        "system": "#6e6a86"
+      }
+    },
+    "scrollbars": {
+      "background": "#00232136",
+      "thumb": "#44415a",
+      "thumbSelected": "#56526e"
+    },
+    "splits": {
+      "background": "#232136",
+      "dropPreview": "#309ccfd8",
+      "dropPreviewBorder": "#003e8fb0",
+      "dropTargetRect": "#ff56526e",
+      "dropTargetRectBorder": "#e0def4",
+      "header": {
+        "background": "#232136",
+        "border": "#2a273f",
+        "focusedBackground": "#2a273f",
+        "focusedBorder": "#393552",
+        "focusedText": "#e0def4",
+        "text": "#908caa"
+      },
+      "input": {
+        "background": "#393552",
+        "text": "#e0def4"
+      },
+      "messageSeperator": "#6e6a86",
+      "resizeHandle": "#ff3e8fb0",
+      "resizeHandleBackground": "#209ccfd8"
+    },
+    "tabs": {
+      "liveIndicator": "#eb6f92",
+      "rerunIndicator": "#f6c177",
+      "dividerLine": "#2a273f",
+      "highlighted": {
+        "backgrounds": {
+          "hover": "#393552",
+          "regular": "#2a273f",
+          "unfocused": "#232136"
+        },
+        "line": {
+          "hover": "#eb6f92",
+          "regular": "#eb6f92",
+          "unfocused": "#eb6f92"
+        },
+        "text": "#e0def4"
+      },
+      "newMessage": {
+        "backgrounds": {
+          "hover": "#393552",
+          "regular": "#2a273f",
+          "unfocused": "#232136"
+        },
+        "line": {
+          "hover": "#9ccfd8",
+          "regular": "#9ccfd8",
+          "unfocused": "#9ccfd8"
+        },
+        "text": "#908caa"
+      },
+      "regular": {
+        "backgrounds": {
+          "hover": "#393552",
+          "regular": "#2a273f",
+          "unfocused": "#232136"
+        },
+        "line": {
+          "hover": "#393552",
+          "regular": "#2a273f",
+          "unfocused": "#232136"
+        },
+        "text": "#6e6a86"
+      },
+      "selected": {
+        "backgrounds": {
+          "hover": "#6e6a86",
+          "regular": "#393552",
+          "unfocused": "#2a273f"
+        },
+        "line": {
+          "hover": "#f6c177",
+          "regular": "#f6c177",
+          "unfocused": "#f6c177"
+        },
+        "text": "#e0def4"
+      }
+    },
+    "window": {
+      "background": "#232136",
+      "text": "#6e6a86"
+    }
+  },
+  "metadata": {
+    "iconTheme": "light"
+  },
+  "ctcMeta": {
+    "name": "Rosé Pine Moon",
+    "createdAt": "2025-05-24T12:32:55.750Z",
+    "modifiedAt": "2025-05-24T12:32:55.750Z",
+    "simpleTabSettings": false,
+    "checkeredRow": true,
+    "messageSeparator": false
+  }
+}
