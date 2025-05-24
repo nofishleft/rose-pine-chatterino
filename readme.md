@@ -22,7 +22,9 @@
 
 ## Gallery
 
-![Rosé Pine with Chatterino](https://github.com/nofishleft/rose-pine-chatterino/blob/gallery/theme_editor_preview.png?raw=true)
+![Rosé Pine with Chatterino](https://github.com/nofishleft/rose-pine-chatterino/blob/gallery/actual_chatterino_preview.png?raw=true)
+
+![Rosé Pine with Theme Editor](https://github.com/nofishleft/rose-pine-chatterino/blob/gallery/theme_editor_preview.png?raw=true)
 
 ## Thanks to
 
