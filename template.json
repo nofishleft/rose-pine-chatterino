@@ -1,117 +1,117 @@
 {
   "colors": {
-    "accent": "#31748f",
+    "accent": "#$pine",
     "messages": {
       "backgrounds": {
-        "alternate": "#1f1d2e",
-        "regular": "#191724"
+        "alternate": "#$surface",
+        "regular": "#$base"
       },
-      "disabled": "#aa191724",
-      "highlightAnimationEnd": "#006e6a86",
-      "highlightAnimationStart": "#f6c1776E",
-      "selection": "#908CAA50",
+      "disabled": "#aa$base",
+      "highlightAnimationEnd": "#00$muted",
+      "highlightAnimationStart": "#6e$gold",
+      "selection": "#50$subtle",
       "textColors": {
-        "caret": "#ebbcba",
-        "chatPlaceholder": "#6e6a86",
-        "link": "#31748f",
-        "regular": "#e0def4",
-        "system": "#6e6a86"
+        "caret": "#$rose",
+        "chatPlaceholder": "#$muted",
+        "link": "#$pine",
+        "regular": "#$text",
+        "system": "#$muted"
       }
     },
     "scrollbars": {
-      "background": "#00191724",
-      "thumb": "#403d52",
-      "thumbSelected": "#524f67"
+      "background": "#00$base",
+      "thumb": "#$highlightMed",
+      "thumbSelected": "#$highlightHigh"
     },
     "splits": {
-      "background": "#191724",
-      "dropPreview": "#300094ff",
-      "dropPreviewBorder": "#0094ff",
-      "dropTargetRect": "#ff524f67",
-      "dropTargetRectBorder": "#e0def4",
+      "background": "#$base",
+      "dropPreview": "#30$foam",
+      "dropPreviewBorder": "#00$pine",
+      "dropTargetRect": "#ff$highlightHigh",
+      "dropTargetRectBorder": "#$text",
       "header": {
-        "background": "#191724",
-        "border": "#1f1d2e",
-        "focusedBackground": "#1f1d2e",
-        "focusedBorder": "#26233a",
-        "focusedText": "#e0def4",
-        "text": "#908caa"
+        "background": "#$base",
+        "border": "#$surface",
+        "focusedBackground": "#$surface",
+        "focusedBorder": "#$overlay",
+        "focusedText": "#$text",
+        "text": "#$subtle"
       },
       "input": {
-        "background": "#26233a",
-        "text": "#ffffff"
+        "background": "#$overlay",
+        "text": "#$text"
       },
-      "messageSeperator": "#3c3c3c",
-      "resizeHandle": "#31748Fff",
-      "resizeHandleBackground": "#9CCFD820"
+      "messageSeperator": "#$muted",
+      "resizeHandle": "#ff$pine",
+      "resizeHandleBackground": "#20$foam"
     },
     "tabs": {
-      "liveIndicator": "#eb6f92",
-      "rerunIndicator": "#f6c177",
-      "dividerLine": "#1f1d2e",
+      "liveIndicator": "#$love",
+      "rerunIndicator": "#$gold",
+      "dividerLine": "#$surface",
       "highlighted": {
         "backgrounds": {
-          "hover": "#26233a",
-          "regular": "#1F1D2E",
-          "unfocused": "#191724"
+          "hover": "#$overlay",
+          "regular": "#$surface",
+          "unfocused": "#$base"
         },
         "line": {
-          "hover": "#eb6f92",
-          "regular": "#eb6f92",
-          "unfocused": "#eb6f92"
+          "hover": "#$love",
+          "regular": "#$love",
+          "unfocused": "#$love"
         },
-        "text": "#e0def4"
+        "text": "#$text"
       },
       "newMessage": {
         "backgrounds": {
-          "hover": "#26233a",
-          "regular": "#1F1D2E",
-          "unfocused": "#191724"
+          "hover": "#$overlay",
+          "regular": "#$surface",
+          "unfocused": "#$base"
         },
         "line": {
-          "hover": "#9ccfd8",
-          "regular": "#9ccfd8",
-          "unfocused": "#9ccfd8"
+          "hover": "#$foam",
+          "regular": "#$foam",
+          "unfocused": "#$foam"
         },
-        "text": "#908caa"
+        "text": "#$subtle"
       },
       "regular": {
         "backgrounds": {
-          "hover": "#26233a",
-          "regular": "#1f1d2e",
-          "unfocused": "#191724"
+          "hover": "#$overlay",
+          "regular": "#$surface",
+          "unfocused": "#$base"
         },
         "line": {
-          "hover": "#26233a",
-          "regular": "#1F1D2E",
-          "unfocused": "#191724"
+          "hover": "#$overlay",
+          "regular": "#$surface",
+          "unfocused": "#$base"
         },
-        "text": "#6e6a86"
+        "text": "#$muted"
       },
       "selected": {
         "backgrounds": {
-          "hover": "#6e6a86",
-          "regular": "#26233a",
-          "unfocused": "#1f1d2e"
+          "hover": "#$muted",
+          "regular": "#$overlay",
+          "unfocused": "#$surface"
         },
         "line": {
-          "hover": "#f6c177",
-          "regular": "#f6c177",
-          "unfocused": "#f6c177"
+          "hover": "#$gold",
+          "regular": "#$gold",
+          "unfocused": "#$gold"
         },
-        "text": "#E0DEF4"
+        "text": "#$text"
       }
     },
     "window": {
-      "background": "#191724",
-      "text": "#6e6a86"
+      "background": "#$base",
+      "text": "#$muted"
     }
   },
   "metadata": {
     "iconTheme": "light"
   },
   "ctcMeta": {
-    "name": "Rose Pine",
+    "name": "$name",
     "createdAt": "2025-05-24T12:32:55.750Z",
     "modifiedAt": "2025-05-24T12:32:55.750Z",
     "simpleTabSettings": false,
